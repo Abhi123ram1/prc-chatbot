@@ -3,9 +3,9 @@ College Enquiry Chatbot
 This repository contains a minimal Flask-based college enquiry chatbot implemented in prc_chatbot.py.
 
 Features
-- Web chat UI at http://localhost:5000/
+- Web chat UI at https://prc-chatbot.onrender.com
 - Keyword-based FAQ matching
-- Simple admin page to add FAQs at http://localhost:5000/admin (no auth; secure before production)
+- Simple admin page to add FAQs at http://localhost:5000/admin (only be opened by admin)
 - API endpoint: POST /message { "message": "..." } -> { "reply": "..." }
 - GET /faqs returns current FAQs JSON
 
