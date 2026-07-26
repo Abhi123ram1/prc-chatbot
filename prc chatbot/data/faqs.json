@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "question": "What undergraduate courses do you offer?",
+    "answer": "We offer B.Sc., B.A., B.Com, B.Tech and other undergraduate programmes across multiple departments.",
+    "keywords": [
+      "undergraduate",
+      "courses",
+      "bsc",
+      "btech",
+      "ba",
+      "bcom",
+      "programmes",
+      "degrees"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How can I apply for admission?",
+    "answer": "You can apply online via our admissions portal. Visit /admissions or contact admissions@college.edu for assistance.",
+    "keywords": [
+      "apply",
+      "admission",
+      "admissions",
+      "apply online",
+      "application",
+      "enroll",
+      "joining"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What are the fees and scholarships available?",
+    "answer": "Fee structure depends on the programme. We offer merit and need-based scholarships. Contact finance@college.edu for details.",
+    "keywords": [
+      "fees",
+      "scholarship",
+      "scholarships",
+      "fee",
+      "cost",
+      "tuition",
+      "financial aid"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "When are campus tours and open days?",
+    "answer": "Campus tours run every Wednesday and the next open day is on 15th September. Check the events page for updates.",
+    "keywords": [
+      "tour",
+      "open day",
+      "campus",
+      "visit",
+      "location",
+      "address"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How do I contact the college?",
+    "answer": "You can call +1-555-1234 or email info@college.edu. The admissions office is admissions@college.edu.",
+    "keywords": [
+      "contact",
+      "phone",
+      "email",
+      "address",
+      "number",
+      "helpline"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Greetings & Welcome",
+    "answer": "Hello! Welcome to our College Enquiry Helpdesk. How can I assist you today with courses, admissions, fees, or campus tours?",
+    "keywords": [
+      "hi",
+      "hello",
+      "hey",
+      "greetings",
+      "good morning",
+      "good afternoon",
+      "good evening"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Thank You & Gratitude",
+    "answer": "You're very welcome! Feel free to ask if you have any more questions about admissions, courses, or college life.",
+    "keywords": [
+      "thanks",
+      "thank you",
+      "thx",
+      "thankyou",
+      "appreciated",
+      "thank you so much"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Goodbye & Farewell",
+    "answer": "Goodbye! Have a wonderful day ahead. Reach out to admissions@college.edu anytime if you need further help.",
+    "keywords": [
+      "bye",
+      "goodbye",
+      "see you",
+      "cya",
+      "have a good day",
+      "have a nice day"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Who are you / Help",
+    "answer": "I am the College Enquiry Virtual Assistant! I can help answer your questions about undergraduate courses, admissions, fees, scholarships, and campus visits.",
+    "keywords": [
+      "who are you",
+      "what are you",
+      "help",
+      "bot",
+      "assistant"
+    ]
+  }
+]

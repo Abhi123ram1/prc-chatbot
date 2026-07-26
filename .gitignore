@@ -1,0 +1,23 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Visual Studio & IDE files
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Environment & local secrets
+.env
+*.log
+
+# Data directory runtime backups (optional: keep initial seed data)
+# data/faqs.json
