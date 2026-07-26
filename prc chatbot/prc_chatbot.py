@@ -489,14 +489,12 @@ def faqs():
 
 
 if __name__ == '__main__':
+    port = int(os.environ.get('PORT', 5000))
     try:
         from waitress import serve
         print("\n" + "="*60)
-        print(" PRC College Enquiry Chatbot Server is Live!")
-        print(" Local URL:    http://127.0.0.1:5000/")
-        print(" Network URL:  http://10.158.242.154:5000/  (Accessible to anyone on your Wi-Fi/LAN)")
-        print(" Admin Panel:  http://10.158.242.154:5000/admin")
+        print(f" PRC College Enquiry Chatbot Server is Live on port {port}!")
         print("="*60 + "\n")
-        serve(app, host='0.0.0.0', port=5000)
+        serve(app, host='0.0.0.0', port=port)
     except ImportError:
-        app.run(host='0.0.0.0', port=5000, debug=True)
+        app.run(host='0.0.0.0', port=port, debug=True)
